@@ -1,0 +1,28 @@
+.test h1  {
+    text-align: center;
+    margin: 50px;
+       color: black;
+    font-weight:900;
+    font-size: 90px;
+    font-family: Impact ;
+}
+.test p{
+    text-align: center;
+    margin: 50px;
+    color: black;
+    font-weight: 400;
+    font-size: 35px;
+    font-family: Times New Roman ;
+}
+.test button{
+    text-align: center !important;
+    padding: 20px;
+    width: 250px;
+    height: 80px;
+    background-color: rgb(22, 22, 22);
+    color: white;
+
+}
+.test button :hover{
+    background-color: #565e64;
+}
